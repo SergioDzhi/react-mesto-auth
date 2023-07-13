@@ -4,7 +4,7 @@
 
 **12 проект по теме: React**
 
-![image](<img width="697" alt="image" src="https://github.com/SergioDzhi/react-mesto-auth/assets/119122301/cc1cb660-24ea-4ad3-a8c1-06e563ba485a">
+![image](https://github.com/SergioDzhi/react-mesto-auth/assets/119122301/cc1cb660-24ea-4ad3-a8c1-06e563ba485a"
 )
 
 
